@@ -16,7 +16,7 @@ The Jira Ticket Clone project is a web application created to apply the concepts
 - **Frontend:** HTML, CSS, JavaScript
 
 ## Project Video
-
+https://github.com/rajmanav1902/JIRA-TICKET-CLONE/assets/90973631/e244d68e-213e-4504-847b-910682158589
 ## Learnings
 1. **CSS DOM Properties:** Gain a deeper understanding of manipulating and styling HTML elements dynamically using CSS DOM properties.
 2. **Web Storage:** Understand how to store and retrieve data on the client-side using web storage, providing a persistent and accessible storage solution.
